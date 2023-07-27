@@ -8,6 +8,8 @@ A Docker file is used to install some jenkins plugins, I used into install the b
 
 ## Installation steps
 ### Step 1
-  > git clone https://github.com/Frankothe196/Jenkins-Docker-Compose.git#
+  > git clone https://github.com/Frankothe196/Jenkins-Docker-Compose.git
 ### Step 2
-  > docker-compose up -d 
+  > docker-compose up -d
+
+#### You should now be able to access the Jenkins Web Interface via `http://locahost:8085/`
